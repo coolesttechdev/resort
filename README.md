@@ -1,2 +1,1 @@
-# resort
-resort booking website
+# test-resort
